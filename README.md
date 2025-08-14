@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+## Todo-App
+Trying out a Todo application with React Native
+
 # Welcome to your new ignited app!
 
 > The latest and greatest boilerplate for Infinite Red opinions
@@ -76,7 +78,3 @@ Read our [Upgrade Guide](https://ignitecookbook.com/docs/recipes/UpdatingIgnite)
 💬 Join us on [Slack](https://join.slack.com/t/infiniteredcommunity/shared_invite/zt-1f137np4h-zPTq_CbaRFUOR_glUFs2UA) to discuss.
 
 📰 Make our Editor-in-chief happy by [reading the React Native Newsletter](https://reactnativenewsletter.com/).
-=======
-# Todo-App
-Trying out a Todo application with React Native
->>>>>>> 50539863075203165e2b999e9d774910cf9bf588
